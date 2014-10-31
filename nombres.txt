@@ -2,4 +2,8 @@ Hola
 Mi 
 Nombre
 Es
+<<<<<<< HEAD
 Luis
+=======
+JOSUE EL DEJADO
+>>>>>>> rama3
